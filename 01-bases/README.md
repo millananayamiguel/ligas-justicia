@@ -3,4 +3,4 @@ este es un repositorio de pruebas
 
 
 ## Desde VSCode
-esto fue añadido mediante vscode
+esto fue añadido mediante vscode!
