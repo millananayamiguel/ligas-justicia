@@ -10,3 +10,8 @@ npm start
 ```
 
 
+## notas
+debemos tener en cuenta que omitiremos:
+node_modules
+
+
